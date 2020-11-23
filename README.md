@@ -1,6 +1,6 @@
 [中文](README.md)　|　[English](README_en.md)
 
-[Gitee](https://gitee.com/haujet/Diary)　|　[Github](
+[Gitee](https://gitee.com/haujet/Diary)　|　[Github](https://github.com/HaujetZhao/Diary)
 
 #  Diary
 
